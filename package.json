@@ -1,0 +1,16 @@
+{
+  "name": "nova2d-studio",
+  "version": "0.1.0",
+  "private": true,
+  "description": "NOVA 2D Studio mobile game engine prototype",
+  "scripts": {
+    "prepare:web": "node scripts/prepare-web.mjs"
+  },
+  "dependencies": {
+    "@capacitor/android": "6.2.1",
+    "@capacitor/core": "6.2.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "6.2.1"
+  }
+}

@@ -1,0 +1,9 @@
+TẠO WORKFLOW BUILD APK TRÊN GITHUB
+
+Trong repository GitHub, chọn Add file > Create new file.
+Tên file: .github/workflows/build-apk.yml
+Dán nội dung YAML được cung cấp riêng trong hướng dẫn ChatGPT.
+Commit file. Mở tab Actions > Build NOVA 2D APK > Run workflow.
+Khi chạy xong, mở lần chạy thành công và tải artifact NOVA-2D-Studio-debug-APK.
+
+Ghi chú: Đây là APK debug để cài thử. Chưa phải bản release đã ký để phát hành cửa hàng.
